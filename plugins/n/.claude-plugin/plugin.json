@@ -1,0 +1,1 @@
+{"author":{"name":"Pedro Antonio Villanueva Juarez"},"description":"N checks each prompt for phrases with more than one reading, and has Claude settle them before it acts.","license":"MIT","name":"n","repository":"https://github.com/PedroAVJ/n","version":"0.2.0"}
