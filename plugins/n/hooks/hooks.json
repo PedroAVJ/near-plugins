@@ -1,1 +1,0 @@
-{"description":"N checks the prompt before Claude reads it.","hooks":{"UserPromptSubmit":[{"hooks":[{"command":"\"${CLAUDE_PLUGIN_ROOT}/bin/n\" hook","timeout":120,"type":"command"}]}]}}
